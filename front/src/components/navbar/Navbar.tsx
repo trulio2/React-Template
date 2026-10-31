@@ -17,7 +17,7 @@ export default function Navbar() {
   return (
     <nav className="navbar" aria-label="Primary">
       <Link to="/" className="navbar-brand">
-        Template
+        React Template
       </Link>
       <ul className="navbar-links">
         {links.map((link) => (
