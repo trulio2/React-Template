@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "data": "python ../scripts/fetch_dashboard.py",
     "lint": "eslint .",
     "preview": "vite preview"
   },
